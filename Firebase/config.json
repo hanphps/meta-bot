@@ -1,0 +1,7 @@
+{
+  "apiKey": "UZWciQsgn6FsYyWq6LwbD7LGDUiAjSnLC69jbRvj",
+  "authDomain": "meta-bot-1505b.firebaseapp.com",
+  "databaseURL": "https://meta-bot-1505b-default-rtdb.firebaseio.com/",
+  "storageBucket": "meta-bot-1505b.appspot.com",
+  "serviceAccount": "Firebase/service.json"
+}
