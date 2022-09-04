@@ -1,7 +1,8 @@
+// Btw none of the keys from previous change commits work ;) 
 {
-  "apiKey": "UZWciQsgn6FsYyWq6LwbD7LGDUiAjSnLC69jbRvj",
-  "authDomain": "meta-bot-1505b.firebaseapp.com",
-  "databaseURL": "https://meta-bot-1505b-default-rtdb.firebaseio.com/",
-  "storageBucket": "meta-bot-1505b.appspot.com",
+  "apiKey": "EXAMPLE",
+  "authDomain": "EXAMPLE.firebaseapp.com",
+  "databaseURL": "https://EXAMPLE-default-rtdb.firebaseio.com/",
+  "storageBucket": "EXAMPLE.appspot.com",
   "serviceAccount": "Firebase/service.json"
 }
